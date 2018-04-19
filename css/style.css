@@ -83,7 +83,7 @@ footer#main-footer {
     color: #fff;
     text-decoration: none; }
 
-#faq .card-body, #faq .card-header {
+#faq .card-block, #faq .card-header {
   background: #333; }
 
 
