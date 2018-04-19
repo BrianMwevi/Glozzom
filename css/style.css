@@ -61,6 +61,10 @@ footer#main-footer {
   background: #000;
   color: #fff; }
 
+#main-footer a:link {
+  text-decoration: none;
+}
+
 #page-header {
   height: 200px;
   background: url("../img/image1.jpg");
@@ -81,3 +85,5 @@ footer#main-footer {
 
 #faq .card-body, #faq .card-header {
   background: #333; }
+
+
